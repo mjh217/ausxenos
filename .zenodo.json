@@ -1,0 +1,34 @@
+{
+  "title": "AusXenos: A database of major-element mineral chemistry for Australian mantle xenoliths and xenocrysts",
+  "upload_type": "dataset",
+  "description": "<p>A compilation of major-element mineral chemistry for mantle (and lower-crustal) xenoliths, xenocrysts and diamond inclusions from Australia, together with locality information and eruption ages for their host rocks. The database contains 11,110 samples/grains from 66 localities, with olivine, orthopyroxene, clinopyroxene, garnet and spinel analyses compiled from more than 50 sources. It is provided as a master spreadsheet (AusXenos.xlsx) and plain-text CSV versions, with BibTeX entries for all cited references.</p><p>This compilation was undertaken as part of Geoscience Australia's <em>Resourcing Australia's Prosperity</em> initiative and accompanies Hoggard et al. (2026), <em>Paleothermal structure of the Australian continental lithosphere</em>, Geochemistry, Geophysics, Geosystems.</p>",
+  "creators": [
+    {
+      "name": "Hoggard, Mark J.",
+      "affiliation": "Research School of Earth Sciences, Australian National University",
+      "orcid": "0000-0003-4310-3862"
+    },
+    {
+      "name": "Sudholz, Zachary J.",
+      "affiliation": "Research School of Earth Sciences, Australian National University",
+      "orcid": "0000-0002-7527-1230"
+    },
+    {
+      "name": "Jaques, A. Lynton",
+      "affiliation": "Research School of Earth Sciences, Australian National University",
+      "orcid": "0000-0002-6641-6514"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "xenolith",
+    "xenocryst",
+    "mineral chemistry",
+    "geochemistry",
+    "thermobarometry",
+    "lithosphere",
+    "kimberlite",
+    "Australia"
+  ]
+}
