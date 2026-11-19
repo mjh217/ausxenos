@@ -89,15 +89,13 @@ gt = geochem.dropna(subset=["GTSiO2"]).merge(locs, on="LOCALITY")
 
 ## Citation
 
-If you use AusXenos, please cite both the paper and the dataset:
+If you use AusXenos, please cite:
 
 > Hoggard, M. J., Sudholz, Z. J., Hawkins, R., Duvernay, T., Bagchi, S., Richards, F. D., Jaques, A. L., Yaxley, G. M., Czarnota, K., & Haynes, M. (2026). Paleothermal structure of the Australian continental lithosphere. *Geochemistry, Geophysics, Geosystems* (accepted).
 
-> Hoggard, M. J., Sudholz, Z. J., & Jaques, A. L. (2026). AusXenos: A database of major-element mineral chemistry for Australian mantle xenoliths and xenocrysts. Zenodo. https://doi.org/10.5281/zenodo.24381196
-
-The dataset DOI above always resolves to the latest version. Each release also has its own DOI on Zenodo (v2026.11: [10.5281/zenodo.24381197](https://doi.org/10.5281/zenodo.24381197)); cite the version-specific DOI to refer to an exact snapshot of the data.
-
 Please also cite the original sources of the analyses you use (listed in the `SOURCE` column and in `ANALYSES REFERENCES`). BibTeX entries for all references are in `references.bib`, with keys matching those in `AusXenos_locs.csv`.
+
+Each release of the database is archived on Zenodo at [10.5281/zenodo.24381196](https://doi.org/10.5281/zenodo.24381196), which always resolves to the latest version; each release also has its own DOI (v2026.11: [10.5281/zenodo.24381197](https://doi.org/10.5281/zenodo.24381197)).
 
 ## Licence
 
