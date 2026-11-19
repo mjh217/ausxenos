@@ -89,7 +89,7 @@ gt = geochem.dropna(subset=["GTSiO2"]).merge(locs, on="LOCALITY")
 
 If you use AusXenos, please cite:
 
-> Hoggard et al. (2026) — *full citation to be added*
+> Hoggard, M. J., Sudholz, Z. J., Hawkins, R., Duvernay, T., Bagchi, S., Richards, F. D., Jaques, A. L., Yaxley, G. M., Czarnota, K., & Haynes, M. (2026). Paleothermal structure of the Australian continental lithosphere. *Geochemistry, Geophysics, Geosystems* (accepted).
 
 and the original sources of the analyses you use (listed in the `SOURCE` column and in `ANALYSES REFERENCES`). BibTeX entries for all references are in `references.bib`, with keys matching those in `AusXenos_locs.csv`.
 
