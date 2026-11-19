@@ -1,0 +1,8 @@
+# LibreOffice / Excel lock and backup files
+.~lock.*#
+~$*
+*.bak
+
+# OS cruft
+.DS_Store
+Thumbs.db
