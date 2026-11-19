@@ -1,6 +1,6 @@
 # AusXenos
 
-A compilation of major-element mineral chemistry for mantle (and lower-crustal) xenoliths, xenocrysts and diamond inclusions from Australia, together with locality information and eruption ages for their host rocks. This dataset compilation was undertaken as part of Geoscience Australia's [*Resourcing Australia's Prosperity*](https://www.ga.gov.au/scientific-topics/resourcing-australias-prosperity) initiative.
+A compilation of major-element mineral chemistry for mantle (and lower-crustal) xenoliths, xenocrysts and diamond inclusions from Australia, together with locality information and eruption ages for their host rocks. This dataset compilation was undertaken as part of Geoscience Australia's [*Resourcing Australia's Prosperity*](https://www.ga.gov.au/scientific-topics/resourcing-australias-prosperity) initiative (eCat record 151570).
 
 ## Contents
 
