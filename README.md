@@ -1,5 +1,7 @@
 # AusXenos
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24381196.svg)](https://doi.org/10.5281/zenodo.24381196)
+
 A compilation of major-element mineral chemistry for mantle (and lower-crustal) xenoliths, xenocrysts and diamond inclusions from Australia, together with locality information and eruption ages for their host rocks. This dataset compilation was undertaken as part of Geoscience Australia's [*Resourcing Australia's Prosperity*](https://www.ga.gov.au/scientific-topics/resourcing-australias-prosperity) initiative (eCat record 151570).
 
 ## Contents
@@ -87,11 +89,15 @@ gt = geochem.dropna(subset=["GTSiO2"]).merge(locs, on="LOCALITY")
 
 ## Citation
 
-If you use AusXenos, please cite:
+If you use AusXenos, please cite both the paper and the dataset:
 
 > Hoggard, M. J., Sudholz, Z. J., Hawkins, R., Duvernay, T., Bagchi, S., Richards, F. D., Jaques, A. L., Yaxley, G. M., Czarnota, K., & Haynes, M. (2026). Paleothermal structure of the Australian continental lithosphere. *Geochemistry, Geophysics, Geosystems* (accepted).
 
-and the original sources of the analyses you use (listed in the `SOURCE` column and in `ANALYSES REFERENCES`). BibTeX entries for all references are in `references.bib`, with keys matching those in `AusXenos_locs.csv`.
+> Hoggard, M. J., Sudholz, Z. J., & Jaques, A. L. (2026). AusXenos: A database of major-element mineral chemistry for Australian mantle xenoliths and xenocrysts. Zenodo. https://doi.org/10.5281/zenodo.24381196
+
+The dataset DOI above always resolves to the latest version. Each release also has its own DOI on Zenodo (v2026.11: [10.5281/zenodo.24381197](https://doi.org/10.5281/zenodo.24381197)); cite the version-specific DOI to refer to an exact snapshot of the data.
+
+Please also cite the original sources of the analyses you use (listed in the `SOURCE` column and in `ANALYSES REFERENCES`). BibTeX entries for all references are in `references.bib`, with keys matching those in `AusXenos_locs.csv`.
 
 ## Licence
 
